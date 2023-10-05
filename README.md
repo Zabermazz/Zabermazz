@@ -1,5 +1,3 @@
-Sure, here's a sample README file for your GitHub profile:
-
 👋 Hi, I'm Zaber Ahmed Mazumder!
 
 I'm a B.Tech Food and Engineering Technology student with a keen interest in coding, especially web development and software engineering. I'm also interested in robotics and enjoy exploring the latest advancements in this field.
